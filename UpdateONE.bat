@@ -1,2 +1,3 @@
+@echo off
 echo WOW MERRY LATE CHRISTMASSSSSSSS ok soo 2025 jan 02 1pm ITS NEW UPDATE YEEEEEEEEEEE
 echo Writed on 4:08pm 2024 12 26
